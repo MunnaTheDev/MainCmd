@@ -1,7 +1,7 @@
 #!/bin/bash
 # ===========================================================
 # Munna`s Empire - OBSIDIAN NEXT GEN (v12.0 - Munna Edition)
-# Style: Modern Glass / Segmented Neo UI / Full Redesign
+# Style: Modern Glass / Segmented Neo UI / Full 
 # ===========================================================
 
 # --- COLORS (Premium Palette) ---
